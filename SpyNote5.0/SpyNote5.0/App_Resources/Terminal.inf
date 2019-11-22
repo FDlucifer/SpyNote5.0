@@ -1,0 +1,53 @@
+cat data/misc/wifi/wpa_supplicant.bak.conf
+cat data/misc/wifi/wpa_supplicant.bak.conf
+cat /proc/version
+ls cd data/system |grep key
+remount
+start -n
+ls -l /dev/initctl /dev/zero
+ls -l /proc/cpuinfo
+ip addr | grep inet
+cat /proc/net/netlink
+cat /proc/tty/drivers
+cat /proc/net/netstat
+cat /proc/net/snmp
+cat /proc/net/dev_mcast
+cat /proc/net/arp
+cat /proc/net/tcp6
+cat /proc/net/dev
+cat /proc/net/sockstat6
+cat /proc/interrupts
+cat /proc/net/ipv6_route
+cat /proc/net/udp6
+cat /proc/net/igmp6
+cat /proc/net/raw6
+cat /proc/net/if_inet6
+am start -n 
+cat /proc/cpuinfo
+cat /proc/meminfo
+mount
+rm ls data/system/fmmpassword.key
+rm ls data/system/gesture.key
+date
+netstat -n
+shell
+ifconfig wlan0
+ls /data
+ifconfig wlan0
+reboot
+reboot now
+reboot -p
+df
+ls
+strace
+su
+netcfg
+toolbox ps -p -P -x -c
+top -n 1 -d 1
+getprop
+ps -p -P -x -c
+/system/bin/screencap -p /sdcard/picture.png
+screenrecord --time-limit 10 /sdcard/video.mp4
+pm install -r /sdcard/app.apk
+ip addr show
+ip route show

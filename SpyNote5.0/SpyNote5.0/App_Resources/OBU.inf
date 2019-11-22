@@ -1,0 +1,14 @@
+Picture{Package}image/*
+Notepad{Package}text/plain
+Picture gif{Package}image/gif
+Picture jpg ,jpeg{Package}image/jpeg
+video 3gp,mpg{Package}video/*
+audio wav,mp3{Package}audio/x-wav
+WordPad rtf{Package}application/rtf
+Adobe pdf{Package}application/pdf
+document doc,docx{Package}application/msword
+Powerpoint ppt,pptx{Package}application/vnd.ms-powerpoint
+Excel xls,xlsx{Package}application/vnd.ms-excel
+File zip,rar{Package}application/zip
+Install apk{Package}application/vnd.android.package-archive
+unknown{Package}*/*
