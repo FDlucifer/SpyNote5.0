@@ -13,6 +13,10 @@ Milad Ranjbar(Iran)
 
 ![milad](https://raw.githubusercontent.com/wiki/FDlucifer/FDlucifer.github.io/milad.png)
 
+### 使用方法参考
+
+[](https://www.freebuf.com/sectool/164077.html)
+
 ### Contact me
 
 - Contact with QQ : 1185151867
