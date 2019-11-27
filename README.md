@@ -15,7 +15,7 @@ Milad Ranjbar(Iran)
 
 ### 使用方法参考
 
-[](https://www.freebuf.com/sectool/164077.html)
+[SpyNote V5.0图形化工具远程管理Android手机教程(图文教程+演示视频)](https://www.freebuf.com/sectool/164077.html)
 
 ### Contact me
 
